@@ -4,7 +4,7 @@
   font-weight: bold;
 }
 html, body {
-  font-size: 12px;
+  font-size: 17px;
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
   height: 100%; /* Ensure body takes up the full height */
@@ -79,7 +79,7 @@ video {
 #button9 {
   position: absolute;
   top: 0%;
-  left: 68.9%;
+  left: 67.5%;
   width: 21.5%;
   height: 28.3%;
 }
@@ -100,7 +100,7 @@ video {
 #button6 {
   position: absolute;
   top: 36%;
-  left: 68.9%;
+  left: 67.5%;
   width: 21.5%;
   height: 28.5%;
 }
@@ -121,7 +121,7 @@ video {
 #button3 {
   position: absolute;
   top: 71%;
-  left: 68.9%;
+  left: 67.5%;
   width: 21.5%;
   height: 28.5%;
 }
