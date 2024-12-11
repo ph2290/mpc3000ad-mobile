@@ -4,7 +4,8 @@
   font-weight: bold;
 }
 html, body {
-  font-size:calc(100% + 2vw);
+  font-size: 18px;
+  font-size: 2vw;
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
   height: 100%; /* Ensure body takes up the full height */
