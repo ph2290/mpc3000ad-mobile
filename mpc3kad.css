@@ -4,7 +4,7 @@
   font-weight: bold;
 }
 html, body {
-  font-size: 14px;
+  font-size: 13px;
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
   height: 100%; /* Ensure body takes up the full height */
@@ -85,42 +85,42 @@ video {
 }
 #button4 {
   position: absolute;
-  top: 36%;
+  top: 35%;
   left: 10%;
   width: 21.5%;
   height: 28.5%;
 }
 #button5 {
   position: absolute;
-  top: 36%;
+  top: 35%;
   left: 39%;
   width: 21.5%;
   height: 28.5%;
 }
 #button6 {
   position: absolute;
-  top: 36%;
+  top: 35%;
   left: 67.5%;
   width: 21.5%;
   height: 28.5%;
 }
 #button1 {
   position: absolute;
-  top: 71%;
+  top: 70%;
   left: 10%;
   width: 21.5%;
   height: 28.5%;
 }
 #button2 {
   position: absolute;
-  top: 71%;
+  top: 70%;
   left: 39%;
   width: 21.5%;
   height: 28.5%;
 }
 #button3 {
   position: absolute;
-  top: 71%;
+  top: 70%;
   left: 67.5%;
   width: 21.5%;
   height: 28.5%;
