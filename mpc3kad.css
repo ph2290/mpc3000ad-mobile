@@ -4,7 +4,8 @@
   font-weight: bold;
 }
 html, body {
-  font-size: 13px;
+  font-size: 18px;
+  font-size: 2vw;
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
   height: 100%; /* Ensure body takes up the full height */
@@ -158,19 +159,12 @@ input {
     max-width: 80%;
   }
 
-  #screen {
-    font-size: 0.5em;
-  }
-
   button {
     font-size: 0.8em;
   }
 }
 
 @media screen and (max-width: 480px) {
-  #screen {
-    font-size: 0.2em;
-  }
   
   .container {
     width: 100%;
